@@ -1,8 +1,8 @@
-192.168.1.1     gateway.local
-192.168.1.105   pihole1.local
-192.168.1.106   pihole2.local
-192.168.1.117   desktop1.local
-192.168.1.118   laptop1.local
-192.168.1.200   iot1.local
-fe80::e123:74ed:b5e:34a2        pihole1.local
-fe80::f123:73d6:fe15:f5dd       pihole2.local
+192.168.100.64:5001 buellbasecamp
+192.168.100.1	router.local
+192.168.100.38	switch
+192.168.100.94:8443	unifi.local
+192.168.100.94:8181	tautulli.local
+192.168.100.41		buellvault.local
+192.168.100.41:8989	sonarr.local
+192.168.100.41:7878	radarr.local
